@@ -5,12 +5,14 @@ The source code for TensorClustering as described in the _**IEEE TPAMI 2019 pape
 
 ####IMPORTANT: To use this software, YOU MUST CITE the following in any resulting publication:
 
+<pre>
 @article{poullis2019large,
   title={Large-scale Urban Reconstruction with Tensor Clustering and Global Boundary Refinement},
   author={Poullis, Charalambos},
   journal={IEEE transactions on pattern analysis and machine intelligence},
   year={2019}
 }
+</pre>
 
 ####Command-line usage:
 `./TensorClustering resampled_xyz_map.pfm`
