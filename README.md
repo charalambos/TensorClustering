@@ -3,7 +3,7 @@
 
 The source code for TensorClustering as described in the _**IEEE TPAMI 2019 paper: Large-scale Urban Reconstruction with Tensor Clustering and Global Boundary Refinement**_.
 
-####IMPORTANT: To use this software, YOU MUST CITE the following in any resulting publication:
+#### IMPORTANT: To use this software, please consider citing the following in any resulting publication:
 
 <pre>
 @article{poullis2019large,
@@ -14,13 +14,13 @@ The source code for TensorClustering as described in the _**IEEE TPAMI 2019 pape
 }
 </pre>
 
-####Command-line usage:
+#### Command-line usage:
 `./TensorClustering resampled_xyz_map.pfm`
 
-####Input
+#### Input
 The input is a resampled XYZ map in PFM format. To generate such files from XYZ pointclouds (ASCII format) you can use  _**StructurePointcloud**_ available here: https://github.com/charalambos/StructurePointcloud
 
-####Dependencies
+#### Dependencies
 To compile and build you will need the following:
 1. ImageMagick > 7.x
 2. FFTW3
